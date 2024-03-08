@@ -118,6 +118,10 @@ nav ul li a {
   height: 3.25rem;
 }
 
+.transferableskills {
+    margin: 0 10px;
+}
+
 #projects {
     background-color: #ffffff; 
     padding-left: 40px;
