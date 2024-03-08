@@ -118,12 +118,12 @@ nav ul li a {
   height: 3.25rem;
 }
 
-.hardskills {
-    margin: 0 30px;
+#hardskills span {
+    margin: 0 10px;
 }
 
-.softskills {
-    margin: 0 30px;
+#softskills span {
+    margin: 0 10px;
 }
 
 #projects {
