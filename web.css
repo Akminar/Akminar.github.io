@@ -69,7 +69,7 @@ nav ul li a {
 .header-content h1, .header-content p {
     margin: 0.5rem 0;
     font-family: 'Work Sans', Helvetica, sans-serif;
-
+    text-align: center;
 }
 
 #about {
@@ -79,14 +79,6 @@ nav ul li a {
     margin: 40px;
     border-radius: 0.5%;
     text-align: center;
-}
-
-#portfolio {
-    background-color: #0fbfbf; 
-    padding: 15px;
-    border-radius: 0.5%;
-    text-align: center;
-    margin-bottom: 10px;
 }
 
 .project {
@@ -121,3 +113,22 @@ a:hover {
     }
 }
 
+.skills {
+  max-width: 68.75rem;
+  margin: auto;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+.skill-header {
+  margin-bottom: 1rem;
+}
+
+.skills img {
+  padding: 1.25rem;
+}
+
+.icon {
+  width: 11.875rem;
+  height: 11.25rem;
+}
