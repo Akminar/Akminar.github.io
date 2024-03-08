@@ -81,13 +81,44 @@ nav ul li a {
     text-align: center;
 }
 
-.project {
-    width: 200px;
-    height: 200px;
-    border: 1px solid #ccc;
-    margin: 10px;
-    display: inline-block;
-    line-height: 200px;
+#socials {
+    background-color: #ffffff; 
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 40px;
+    border-radius: 0.5%;
+    text-align: center;
+}
+
+#skills {
+    background-color: #ffffff; 
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 40px;
+    border-radius: 0.5%;
+    text-align: center;
+}
+
+.skill-header {
+  margin-bottom: 1rem;
+}
+
+.skills img {
+  padding: 1.25rem;
+}
+
+.icon {
+  width: 11.875rem;
+  height: 11.25rem;
+}
+
+#projects {
+    background-color: #ffffff; 
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 40px;
+    border-radius: 0.5%;
+    text-align: center;
 }
 
 /* Additional Styles */
@@ -111,24 +142,4 @@ a:hover {
         display: block;
         margin: 10px 0;
     }
-}
-
-.skills {
-  max-width: 68.75rem;
-  margin: auto;
-  text-align: center;
-  margin-top: 2.5rem;
-}
-
-.skill-header {
-  margin-bottom: 1rem;
-}
-
-.skills img {
-  padding: 1.25rem;
-}
-
-.icon {
-  width: 11.875rem;
-  height: 11.25rem;
 }
