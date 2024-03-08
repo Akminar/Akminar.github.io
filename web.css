@@ -118,7 +118,11 @@ nav ul li a {
   height: 3.25rem;
 }
 
-.transferableskills {
+.hardskills {
+    margin: 0 10px;
+}
+
+.softskills {
     margin: 0 10px;
 }
 
